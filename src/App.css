@@ -85,3 +85,6 @@ button{
   color: white;
   margin-bottom: 20px;
 }
+button:hover{
+  background-color: blue;
+}
